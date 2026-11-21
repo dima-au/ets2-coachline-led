@@ -20,9 +20,9 @@ With the `coachline_telemetry.dll` plugin the board shows your current job live:
 - `N` for night departures;
 - blank when there is no job.
 
-**Compatibility:** Scania Touring works. MAN Lion's Coach (same board model) is not tested yet. **Volvo 9700 is not working yet, in progress.**
+**Compatibility:** Scania Touring works. MAN Lion's Coach works (tested by players). **Volvo 9700 is not working yet, in progress.**
 
-The plugin (DLL) is still in development, this is a beta. Without the DLL the mod shows a default strip.
+The plugin (DLL) is still in development, this is a beta. Without the DLL the board shows a fixed example: N757 Napoli, via Zürich · Torino · Roma.
 
 ### Install
 1. Press the orange **DOWNLOAD** button at the top (or take the zip from [Releases](https://github.com/dima-au/ets2-coachline-led/releases/latest)).
@@ -39,9 +39,9 @@ The plugin (DLL) is still in development, this is a beta. Without the DLL the mo
 - `N` для ночных рейсов;
 - без рейса табло гаснет.
 
-**Совместимость:** Scania Touring работает. MAN Lion's Coach (та же модель табло) пока не проверен. **Volvo 9700 пока не работает, в процессе.**
+**Совместимость:** Scania Touring работает. MAN Lion's Coach работает (проверили игроки). **Volvo 9700 пока не работает, в процессе.**
 
-Плагин (DLL) ещё в разработке, это бета. Без DLL мод показывает стандартную строку.
+Плагин (DLL) ещё в разработке, это бета. Без DLL табло показывает фиксированный пример: N757 Napoli, via Zürich · Torino · Roma.
 
 ### Установка
 1. Нажать оранжевую кнопку **СКАЧАТЬ** вверху (или взять zip в [Releases](https://github.com/dima-au/ets2-coachline-led/releases/latest)).
