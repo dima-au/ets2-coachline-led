@@ -18,11 +18,16 @@ With the `coachline_telemetry.dll` plugin the board shows your current job live:
 - line number and destination;
 - a "via …" running line with the stops in between;
 - `N` for night departures;
-- blank when there is no job.
+- no job: OUT OF SERVICE, your own text or board off.
+
+**Settings window in the game: Ctrl+F12** (saved automatically):
+- logo: off, built-in, your own text or your own image (beta: put `logo.png` into `Documents\Euro Truck Simulator 2\coachline`);
+- your own line number;
+- what the board shows when there is no job.
 
 **Compatibility:** Scania Touring works. MAN Lion's Coach works (tested by players). **Volvo 9700 is not working yet, in progress.**
 
-The plugin (DLL) is still in development, this is a beta. Without the DLL the board shows a fixed example: N757 Napoli, via Zürich · Torino · Roma.
+The plugin (DLL) is still in development, this is a beta. Without the DLL the board shows DOWNLOAD DLL and a running line with the GitHub link.
 
 ### Install
 1. Press the orange **DOWNLOAD** button at the top (or take the zip from [Releases](https://github.com/dima-au/ets2-coachline-led/releases/latest)).
@@ -37,11 +42,16 @@ The plugin (DLL) is still in development, this is a beta. Without the DLL the bo
 - номер линии и город назначения;
 - бегущая строка «via …» с промежуточными остановками;
 - `N` для ночных рейсов;
-- без рейса табло гаснет.
+- без рейса: OUT OF SERVICE, свой текст или табло выключено.
+
+**Окно настроек прямо в игре: Ctrl+F12** (сохраняется само):
+- логотип: выкл., встроенный, свой текст или своя картинка (бета: положить `logo.png` в `Документы\Euro Truck Simulator 2\coachline`);
+- свой номер линии;
+- что показывать, когда нет рейса.
 
 **Совместимость:** Scania Touring работает. MAN Lion's Coach работает (проверили игроки). **Volvo 9700 пока не работает, в процессе.**
 
-Плагин (DLL) ещё в разработке, это бета. Без DLL табло показывает фиксированный пример: N757 Napoli, via Zürich · Torino · Roma.
+Плагин (DLL) ещё в разработке, это бета. Без DLL табло показывает DOWNLOAD DLL и бегущую строку со ссылкой на GitHub.
 
 ### Установка
 1. Нажать оранжевую кнопку **СКАЧАТЬ** вверху (или взять zip в [Releases](https://github.com/dima-au/ets2-coachline-led/releases/latest)).
