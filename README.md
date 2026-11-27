@@ -4,7 +4,7 @@
 
 **Euro Truck Simulator 2 1.62 · Coaches DLC**
 
-[![DOWNLOAD / СКАЧАТЬ](https://img.shields.io/badge/DOWNLOAD%20%2F%20%D0%A1%D0%9A%D0%90%D0%A7%D0%90%D0%A2%D0%AC-v0.4.1--beta%20zip-ffa812?style=for-the-badge&logo=github)](https://github.com/dima-au/ets2-coachline-led/releases/download/v0.4.1-beta/coachline-led-v0.4.1-beta.zip)
+[![DOWNLOAD / СКАЧАТЬ](media/download-badge.svg)](https://github.com/dima-au/ets2-coachline-led/releases/download/v0.4.1-beta/coachline-led-v0.4.1-beta.zip)
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3842891585) · Telegram: [t.me/Dima_au](https://t.me/Dima_au)
 
